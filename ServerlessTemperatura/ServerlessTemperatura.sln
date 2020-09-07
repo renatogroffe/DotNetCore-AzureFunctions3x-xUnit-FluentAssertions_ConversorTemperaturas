@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30428.66
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerlessTemperatura", "ServerlessTemperatura.csproj", "{07F7812B-AD7C-4986-912E-7B94B2D8F8F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerlessTemperatura.Testes", "..\ServerlessTemperatura.Testes\ServerlessTemperatura.Testes.csproj", "{72F6F4D9-8127-4D75-ABE2-7567642829CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F7812B-AD7C-4986-912E-7B94B2D8F8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F7812B-AD7C-4986-912E-7B94B2D8F8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F7812B-AD7C-4986-912E-7B94B2D8F8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F7812B-AD7C-4986-912E-7B94B2D8F8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F6F4D9-8127-4D75-ABE2-7567642829CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F6F4D9-8127-4D75-ABE2-7567642829CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F6F4D9-8127-4D75-ABE2-7567642829CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F6F4D9-8127-4D75-ABE2-7567642829CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C56A01-5C4F-4E32-8CF8-A8579B057589}
+	EndGlobalSection
+EndGlobal
